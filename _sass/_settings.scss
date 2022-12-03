@@ -13,17 +13,25 @@ $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 
-// Typography
+// TypographyMukta
 $bodytype: (
-  font-family: "Georgia, serif",
+  font-family: "Mukta, serif",
   regular: 400,
   bold: 700,
   italic: italic,
   cap-height: 0.75
 ) !default;
 
+// $bodytype: (
+//   font-family: "Georgia, serif",
+//   regular: 400,
+//   bold: 700,
+//   italic: italic,
+//   cap-height: 0.75
+// ) !default;
+
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: "Mukta, serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75

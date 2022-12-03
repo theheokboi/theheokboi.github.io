@@ -123,27 +123,29 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Publications
+  url: /publications/
+# - title: Blog
+#   url: /blog/
+# - title: Categories
+#   url: /categories/
+# - title: Search
+#   url: /search/
+# - title: Backup
+#   url: /index_backup/
+# - title: Fork Alembic
+#   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Caleb Wang
+  url: theheokboi.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
   GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+#  link: https://darn.es
+#  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
@@ -158,4 +160,5 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
+    - https://fonts.googleapis.com/css2?family=Mukta:wght@400;700&display=swap
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
