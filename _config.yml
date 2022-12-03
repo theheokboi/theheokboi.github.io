@@ -133,8 +133,8 @@ navigation_header:
 #   url: /categories/
 # - title: Search
 #   url: /search/
-- title: Backup
-  url: /index_backup/
+# - title: Backup
+#   url: /index_backup/
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
