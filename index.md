@@ -1,6 +1,7 @@
 ---
 title: Caleb Wang
 # feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: '/me.jpg'
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 Greetings! I am a first-year PhD student studying computer science at [Northwestern University](https://www.northwestern.edu){:target="_blank"}, currently working with professor [Fabián E. Bustamante](https://users.cs.northwestern.edu/~fabianb/){:target="_blank"} and wonderful labmates in [AquaLab](https://aqualab.cs.northwestern.edu){:target="_blank"}.

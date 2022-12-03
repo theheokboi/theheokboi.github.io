@@ -125,14 +125,16 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
+- title: Contact
+  url: /contact/
 # - title: Blog
 #   url: /blog/
 # - title: Categories
 #   url: /categories/
 # - title: Search
 #   url: /search/
-# - title: Backup
-#   url: /index_backup/
+- title: Backup
+  url: /index_backup/
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
